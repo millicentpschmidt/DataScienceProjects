@@ -1,18 +1,22 @@
 Overview
-This project examines the achievment gap in the Louisiana education system. Several potential metrics could potentially be explored to study the achivement gap
-including standardized state testing scores for elementary and middle school students, ACT scores for high school students, high school graduation rates, access
-to enrichment programs, etc... The first metric examined will be 3-8th grade LEAP scores.
+This project examines the achievment gap in the Louisiana education system. Several potential metrics could potentially be explored to study
+the achivement gap including standardized state testing scores for elementary and middle school students, ACT scores for high school students,
+high school graduation rates, access to enrichment programs, etc... The first metric examined will be 3-8th grade LEAP scores.
 
 Questions
 Is the achievment gap in Louisiana closing over time?
 If there are changes in the gap, what policies have been enacted to affect those changes?
 
 The Data
-The Data comes from the Louisiana State Department of Education. The data divided by subgroups for examining equity issues goes back to 2014 (depending on the metric). Data is available prior to 2014, but subgroup records are not available beofre then.
+The Data comes from the Louisiana State Department of Education. The data divided by subgroups for examining equity issues goes back to 2014
+(depending on the metric). Data is available prior to 2014, but subgroup records are not available beofre then.
 
 What's In the Files?
-(1) Gap-LEAP15.ipynb contains in-depth discussion of my reasoning for each step and visualization. If you would like to understand the overall process I went through for each set of year data individually, this is the best file to start with.
-(2) Gap-LEAP15-19.ipynb contains an abridged version of the process explored int he previous file for all years of available data. All the same computational steps are taken, but there is less justification and in-depth explanation. This file also includes the calculation of the Achievement Gap and the final time series visualization and discussion.
+(1) Gap-LEAP15.ipynb contains in-depth discussion of my reasoning for each step and visualization. If you would like to understand the
+overall process I went through for each set of year data individually, this is the best file to start with.
+(2) Gap-LEAP15-19.ipynb contains an abridged version of the process explored int he previous file for all years of available data. All the
+same computational steps are taken, but there is less justification and in-depth explanation. This file also includes the calculation of the
+Achievement Gap and the final time series visualization and discussion.
 
 Author
 Millicent Schmidt
