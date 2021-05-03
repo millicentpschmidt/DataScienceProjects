@@ -18,6 +18,10 @@ overall process I went through for each set of year data individually, this is t
 (2) Gap-LEAP15-19.ipynb contains an abridged version of the process explored int he previous file for all years of available data. All
 the same computational steps are taken, but there is less justification and in-depth explanation. This file also includes the
 calculation of the Achievement Gap and the final time series visualization and discussion.
+(3) MindTheGap-LEAPSummary contains a summary with discussion and analysis, major graphs, and background research.
+    google doc link: https://docs.google.com/document/d/1l6dmDI8USTK278gAiq0XF3Vdq6jxu6evV8JVjt9ISB8/edit?usp=sharing
+    PDF link: https://drive.google.com/file/d/1cgXm8h5BcM2eiTU10H2x6-MQqnFBZm0f/view?usp=sharing
+
 
 Author
 Millicent Schmidt
